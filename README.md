@@ -1,5 +1,10 @@
 # bonds-frontend
 https://rayguang6.github.io/bonds/index.html
+https://rayguang6.github.io/bonds/dashboard.html
+https://rayguang6.github.io/bonds/covid19.html
+https://rayguang6.github.io/bonds/visitorpass.html
+https://rayguang6.github.io/bonds/explore.html
+https://rayguang6.github.io/bonds/profile.html
 
 Start building at main content area (.main_content_container) at line 222
 The main content area is wrapped with contaiener and row already.
